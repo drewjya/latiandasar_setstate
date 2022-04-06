@@ -18,3 +18,11 @@ ___
 
 ## Yang Harus dilakukan
 - Testing 
+
+___ 
+## Platform yang didukung
+- Android
+- Ios
+- Linux
+- Windows
+- Web

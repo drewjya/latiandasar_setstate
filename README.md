@@ -1,16 +1,20 @@
-# latiandasar
+# Latihan Dasar
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Latihan Dasar merupakan sebuah tugas latihan untuk membuat aplikasi flutter yang mampu melakukan searching data yang sudah di retrieve dari Github API dan melakukan fetch terhadap data dari Github API. Untuk State Management yang saya gunakan pada Project Ini adalah setState dikarenakan fitur app yang masih basic.
 
-A few resources to get you started if this is your first Flutter project:
+## Struktur File
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- models
+- - user_model.dart
+- screens
+- - base_screen.dart
+- services
+- - api_helper.dart
+- main.dart
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+___
+
+## Yang Harus dilakukan
+- Testing 
